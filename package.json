@@ -4,7 +4,7 @@
   "description": "Backend of our sample web app",
   "main": "Index.js",
   "scripts": {
-    "start": "nodemon Index.js"
+    "start": "node Index.js"
   },
   "author": "gurman",
   "license": "ISC",
