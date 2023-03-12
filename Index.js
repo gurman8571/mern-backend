@@ -7,7 +7,7 @@ const cors=require('cors')
 
 const userRoutes=require('./routes/UserRoutes')
 
-
+const hostname='0.0.0.0'
 
 //app.get('/',(req,res)=>{res.send('hi')})
 
